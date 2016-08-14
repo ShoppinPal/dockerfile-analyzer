@@ -16,7 +16,7 @@ A static analyzer for Dockerfile which should help implement best practices give
       1. https://groups.google.com/forum/#!topic/docker-user/uxYfPmsHVzo
     1. https://github.com/mre/awesome-static-analysis#containers
       1. Haskell Dockerfile Linter [OSS] - A smarter Dockerfile linter that helps you build best practice Docker images
-        1. https://github.com/lukasmartinelli/hadolint
+        1. https://github.com/lukasmartinelli/hadolint (**This comes closest to what we want**)
 1. Best Practices to implement as suggestions:
   1. http://blog.getjaco.com/jaco-labs-nodejs-docker-missing-manual/
   2. http://www.projectatomic.io/docs/docker-image-author-guidance/
