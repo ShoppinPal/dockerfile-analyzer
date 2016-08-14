@@ -19,3 +19,4 @@ A static analyzer for Dockerfile which should help implement best practices give
         1. https://github.com/lukasmartinelli/hadolint
 1. Best Practices to implement as suggestions:
   1. http://blog.getjaco.com/jaco-labs-nodejs-docker-missing-manual/
+  2. http://www.projectatomic.io/docs/docker-image-author-guidance/
